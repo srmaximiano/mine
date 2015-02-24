@@ -1,0 +1,6 @@
+compatibility-mode: false
+permission-system: none
+startup-mode: 'on'
+startup-message: true
+percentage: false
+blocked-worlds: ''

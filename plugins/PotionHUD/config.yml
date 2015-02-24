@@ -1,0 +1,81 @@
+# PotionHUD configuration file
+
+# IMPORTANT: Make sure the name is only 16 characters or the client WILL crash.
+#            This is a Minecraft limitation.
+
+config:
+  title: '&bPotion Effects'
+  display-empty: false
+
+potions:
+  EMPTY:
+    name: '&cNone'
+  ABSORPTION:
+    name: '&aAbsorption'
+    ambient: '&6Absorption'
+  BLINDNESS:
+    name: '&cBlindness'
+    ambient: '&6Blindness'
+  CONFUSION:
+    name: '&cConfusion'
+    ambient: '&6Confusion'
+  DAMAGE_RESISTANCE:
+    name: '&aResistance'
+    ambient: '&6Resistance'
+  FAST_DIGGING:
+    name: '&aHaste'
+    ambient: '&6Haste'
+  FIRE_RESISTANCE:
+    name: '&aFire Resist'
+    ambient: '&6Fire Resist'
+  HARM:
+    name: '&cInstant Damage'
+    ambient: '&6Instant Damage'
+  HEAL:
+    name: '&aInstant Health'
+    ambient: '&6Instant Health'
+  HEALTH_BOOST:
+    name: '&aHealth Boost'
+    ambient: '&6Health Boost'
+  HUNGER:
+    name: '&cHunger'
+    ambient: '&6Hunger'
+  INCREASE_DAMAGE:
+    name: '&aStrength'
+    ambient: '&6Strength'
+  INVISIBILITY:
+    name: '&aInvisibility'
+    ambient: '&6Invisibility'
+  JUMP:
+    name: '&aJump Boost'
+    ambient: '&6Jump Boost'
+  NIGHT_VISION:
+    name: '&aNight Vision'
+    ambient: '&6Night Vision'
+  POISON:
+    name: '&cPoison'
+    ambient: '&6Poison'
+  REGENERATION:
+    name: '&aRegeneration'
+    ambient: '&6Regeneration'
+  SATURATION:
+    name: '&aSaturation'
+    ambient: '&6Saturation'
+  SLOW:
+    name: '&cSlowness'
+    ambient: '&6Slowness'
+  SLOW_DIGGING:
+    name: '&cMining Fatigue'
+    ambient: '&6Mining Fatigue'
+  SPEED:
+    name: '&aSpeed'
+    ambient: '&6Speed'
+  WATER_BREATHING:
+    name: '&aWater Breath'
+    ambient: '&6Water Breath'
+  WEAKNESS:
+    name: '&cWeakness'
+    ambient: '&6Weakness'
+  WITHER:
+    name: '&cWither'
+    ambient: '&6Wither'
